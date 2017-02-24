@@ -1,4 +1,4 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [1 Col Portfolio](http://startbootstrap.com/template-overviews/1-col-portfolio/)
+# Younghee Jang Portfolio - [Start Portfolio](http://github.02log.com)
 
 [1 Col Portfolio](http://startbootstrap.com/template-overviews/1-col-portfolio/) is a one column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
